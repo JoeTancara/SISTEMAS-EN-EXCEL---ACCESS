@@ -1,2 +1,6 @@
 # SISTEMAS-EN-EXCEL---ACCESS
 Sistemas realizados en Excel y Access, desde lo básico a avanzado.
+
+PARA LOS SISTEMAS QUE TIENEN LOGIN
+USUARIO: ADMINISTRADOR
+PASSWORD: 123456
